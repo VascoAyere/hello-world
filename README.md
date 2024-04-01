@@ -1,6 +1,6 @@
 # hello-world
 This repository is for practising the GitHub Flow as part of the ANA 505 course at McDaniel College
-# Hello, meet Vasco Ayere Avoka.
+## Hello, meet Vasco Ayere Avoka.
 
 Vasco Ayere Avoka is a seasoned public health professional, boasting a rich tapestry of experience in health
 promotion, policy development, and administrative coordination across both national and international arenas. Armed
